@@ -4,8 +4,8 @@ This is an student thesis paper project page template.
 ## Start using the template
 To start using the template click on `Use this Template`.
 
-The template uses html for controlling the content and css for controlling the style. 
-To edit the websites contents edit the `index.html` file. It contains different HTML "building blocks", use whichever ones you need and comment out the rest.  
+The template uses JavaScript variables for controlling the content and css for controlling the style. 
+To edit the websites contents edit the `content.js` file. It fills the different HTML "building blocks". Use the variables with the `hide` prefix to decide whether the component is shown or not.
 
 **IMPORTANT!** Make sure to replace the `favicon.ico` under `static/images/` with one of your own, otherwise your favicon is going to be a the emoji mashup from [uhahne.github.io](https://uhahne.github.io).
 
